@@ -1,0 +1,16 @@
+{
+  "name": "@nisqy/validfile",
+  "version": "1.0.1",
+  "description": "Assist developers to verify file size, file type, image size",
+  "keywords": [
+    "file size check",
+    "file type check",
+    "image size check"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nisqy",
+  "license": "ISC"
+}
