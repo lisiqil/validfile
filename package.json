@@ -7,10 +7,11 @@
     "file type check",
     "image size check"
   ],
+  "homepage": "https://github.com/lisiqil/validfile",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "nisqy",
-  "license": "ISC"
+  "license": "MIT"
 }
